@@ -1,24 +1,20 @@
-/* Сброс стилей для всех элементов */
-* {
+ {
     margin: 0;
     padding: 0;
-    box-sizing: border-box; /* Рекомендуется добавлять box-sizing: border-box для лучшего контроля над размерами элементов */
-}
+    box-sizing: border-box; 
 
-/* Стили для body */
 body {
     font-family: 'Poppins', sans-serif;
     font-weight: 400;
     color: #fff;
-    background-color: #000; /* Добавление фона по умолчанию */
+    background-color: #000;
 }
 
-/* Стили для ссылок */
-a {
+ {
     text-decoration: none;
 }
 
-/* Стили для изображений */
+
 img {
     max-width: 100%;
     height: auto; /* Это поможет сохранить пропорции изображений */
